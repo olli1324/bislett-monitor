@@ -1,0 +1,13 @@
+[2025-05-30 14:45:50] === Bislett 24-hour Registration Monitor Started ===
+[2025-05-30 14:45:50] Monitoring URL: https://www.romerikeultra.no/next/p/24684/bislett-24-timers
+[2025-05-30 14:45:50] Looking for phrase: 'Det er i øyeblikket ingen plasser til salgs'
+[2025-05-30 14:45:50] ✓ Phrase found - registration still closed
+[2025-05-30 14:45:50] === Check completed ===
+
+[2025-05-30 14:47:29] === Bislett 24-hour Registration Monitor Started ===
+[2025-05-30 14:47:29] Monitoring URL: https://www.romerikeultra.no/next/p/24684/bislett-24-timers
+[2025-05-30 14:47:29] Looking for phrase: 'Det er i øyeblikket ingen plasser til salgs'
+[2025-05-30 14:47:29] ✓ Phrase found - registration still closed
+[2025-05-30 14:47:31] Email alert sent successfully!
+[2025-05-30 14:47:31] === Check completed ===
+

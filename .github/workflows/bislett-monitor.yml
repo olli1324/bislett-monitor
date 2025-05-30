@@ -3,8 +3,8 @@ name: Bislett 24-hour Monitor
 
 on:
   schedule:
-    # Run 10 times per day (every 2.4 hours approximately)
-    - cron: '0 6,8,10,12,14,16,18,20,22,23 * * *'  # 10 times daily
+    # Run every 15 minutes (96 times per day) 
+    - cron: '*/15 * * * *'
   workflow_dispatch: # Allow manual triggering
 
 jobs:
